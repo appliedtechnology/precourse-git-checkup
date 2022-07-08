@@ -28,3 +28,5 @@ Finally send us a pull request and we'll merge it.
 
 - Filipe Forssblad
   > But does one really need to know the definition of recursion to live a good life?
+- Munazar Abdulle
+  > I walk around like everything's fine, but deep down, inside my shoe, my sock is sliding off
