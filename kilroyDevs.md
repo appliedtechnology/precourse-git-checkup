@@ -28,3 +28,6 @@ Finally send us a pull request and we'll merge it.
 
 - Filipe Forssblad
   > But does one really need to know the definition of recursion to live a good life?
+
+- Victor Krechikov
+  > Hi. I twas nice to come back to the old knowledge!
