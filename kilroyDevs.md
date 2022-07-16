@@ -28,5 +28,7 @@ Finally send us a pull request and we'll merge it.
 
 - Filipe Forssblad
   > But does one really need to know the definition of recursion to live a good life?
-Robin Öberg
-In a hole in the ground there lived a hobbit...
+
+- Robin Öberg
+  > In a hole in the ground there lived a hobbit...
+
