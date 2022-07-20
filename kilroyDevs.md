@@ -28,3 +28,6 @@ Finally send us a pull request and we'll merge it.
 
 - Filipe Forssblad
   > But does one really need to know the definition of recursion to live a good life?
+
+- Luciana Bovo
+  > Who said the only way to discover the limits of the possible is to go beyond them into The Impossible?
