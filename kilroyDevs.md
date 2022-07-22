@@ -28,3 +28,7 @@ Finally send us a pull request and we'll merge it.
 
 - Filipe Forssblad
   > But does one really need to know the definition of recursion to live a good life?
+- Dariusz Ciazynski
+  > Not really, but learning something new every day counteracts stagnation:)
+
+
