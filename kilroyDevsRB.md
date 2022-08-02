@@ -25,3 +25,5 @@ Finally send us a pull request and we'll merge it.
   > No quote
 - Markus Gustafsson
   > Neither did I...
+- Eoghain O'Briain
+  > Bouncy ball
