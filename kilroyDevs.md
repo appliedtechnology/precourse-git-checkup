@@ -25,6 +25,10 @@ Finally send us a pull request and we'll merge it.
   > No quote
 - Markus Gustafsson
   > Neither did I...
-
 - Filipe Forssblad
-  > But does one really need to know the definition of recursion to live a good life?
+  > But does one really need to know the definition of recursion to live a good life
+- Salamon Rørvik
+  > It’s dangerous to go alone, take this!       /| ______ ______ __
+                                           O|===|* >_ ______ _______>
+                                                 \|
+
