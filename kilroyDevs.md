@@ -27,4 +27,7 @@ Finally send us a pull request and we'll merge it.
   > Neither did I...
 
 - Filipe Forssblad
+- Nastaran Moghadasi
+  > Happy codding!
+
   > But does one really need to know the definition of recursion to live a good life?
